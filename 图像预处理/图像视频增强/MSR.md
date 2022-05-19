@@ -1,4 +1,11 @@
 ---
+tags:
+title: MSR
+subTitle: MSR
+abbrlink: 97086
+
+---
+---
 title: MSR
 abbrlink: 6701
 mathjax: true
