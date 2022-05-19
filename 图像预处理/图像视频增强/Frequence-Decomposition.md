@@ -1,4 +1,11 @@
 ---
+tags:
+title: Frequence-Decomposition
+subTitle: Frequence-Decomposition
+abbrlink: 43169
+
+---
+---
 title: Frequence-Decomposition
 abbrlink: 26067
 mathjax: true
