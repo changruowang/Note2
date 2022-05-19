@@ -1,4 +1,11 @@
 ---
+tags:
+title: KinD Net
+subTitle: KinD Net
+abbrlink: 752
+
+---
+---
 title: KinD Net
 abbrlink: 41988
 mathjax: true
