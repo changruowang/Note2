@@ -2,7 +2,7 @@
 tags:
 title: test
 subTitle: test
-abbrlink: 85040
+abbrlink: 39385
 
 ---
 测试1
