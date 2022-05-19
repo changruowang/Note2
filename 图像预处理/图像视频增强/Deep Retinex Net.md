@@ -1,4 +1,11 @@
 ---
+tags:
+title: Deep Retinex Net
+subTitle: Deep Retinex Net
+abbrlink: 95975
+
+---
+---
 title: Deep Retinex Net
 abbrlink: 15395
 mathjax: true
