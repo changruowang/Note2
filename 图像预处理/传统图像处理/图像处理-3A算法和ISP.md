@@ -1,4 +1,11 @@
 ---
+tags:
+title: 图像处理-3A算法和ISP
+subTitle: 图像处理-3A算法和ISP
+abbrlink: 13307
+
+---
+---
 title: 图像处理-3A算法和ISP
 abbrlink: 42532
 abstract:
