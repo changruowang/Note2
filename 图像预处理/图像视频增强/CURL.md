@@ -1,13 +1,17 @@
 ---
-title: CURL
-abbrlink: 313
-abstract:
 tags:
-- 低光照图像增强
-password:
+title: CURL
+subTitle: CURL
+abbrlink: 67269
+
 ---
+---
+tags:
+title: CURL
+subTitle: CURL
+abbrlink: 52309
 
-
+---
 <!--more-->
 
 # CURL: Neural Curve Layers for Global Image Enhancement
@@ -85,3 +89,5 @@ TED的核心结构和UNET类似，右下角所示结构。和UNET的差别是，
 ![image-20210114160519085](https://cdn.jsdelivr.net/gh/changruowang/cloudimg/img/20210424120100.png)
 
 ![image-20210114160656667](https://cdn.jsdelivr.net/gh/changruowang/cloudimg/img/20210424120104.png)
+
+这是测试
