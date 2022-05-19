@@ -1,4 +1,11 @@
 ---
+tags:
+title: UMLE
+subTitle: UMLE
+abbrlink: 6903
+
+---
+---
 title: UMLE
 abbrlink: 59508
 abstract:
