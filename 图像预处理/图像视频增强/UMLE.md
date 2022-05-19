@@ -2,7 +2,7 @@
 tags:
 title: UMLE
 subTitle: UMLE
-abbrlink: 6903
+abbrlink: 89508
 
 ---
 ---
