@@ -2,7 +2,7 @@
 tags:
 title: python语法
 subTitle: python语法
-abbrlink: 59353
+abbrlink: 27409
 
 ---
 ---
