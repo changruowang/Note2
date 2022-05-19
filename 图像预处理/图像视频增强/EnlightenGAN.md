@@ -1,4 +1,11 @@
 ---
+tags:
+title: EnlightenGAN
+subTitle: EnlightenGAN
+abbrlink: 42070
+
+---
+---
 title: EnlightenGAN
 abbrlink: 9266
 mathjax: true
