@@ -2,7 +2,7 @@
 tags:
 title: LightenNet
 subTitle: LightenNet
-abbrlink: 89012
+abbrlink: 68926
 
 ---
 ---
