@@ -1,4 +1,11 @@
 ---
+tags:
+title: python语法
+subTitle: python语法
+abbrlink: 41152
+
+---
+---
 title: python和pytorch常用语法
 comments: true
 tags:
