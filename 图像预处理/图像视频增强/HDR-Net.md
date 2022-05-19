@@ -1,4 +1,11 @@
 ---
+tags:
+title: HDR-Net
+subTitle: HDR-Net
+abbrlink: 72748
+
+---
+---
 title: HDR-Net
 abbrlink: 32828
 mathjax: true
