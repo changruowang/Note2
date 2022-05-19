@@ -2,7 +2,7 @@
 tags:
 title: test2
 subTitle: test2
-abbrlink: 68490
+abbrlink: 49431
 
 ---
 test2.md
