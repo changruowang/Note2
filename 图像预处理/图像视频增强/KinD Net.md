@@ -2,7 +2,7 @@
 tags:
 title: KinD Net
 subTitle: KinD Net
-abbrlink: 22085
+abbrlink: 30673
 
 ---
 ---
