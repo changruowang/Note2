@@ -2,7 +2,7 @@
 tags:
 title: EnlightenGAN
 subTitle: EnlightenGAN
-abbrlink: 42070
+abbrlink: 1809
 
 ---
 ---
