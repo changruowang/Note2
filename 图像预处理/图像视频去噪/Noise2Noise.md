@@ -1,3 +1,10 @@
+---
+tags:
+title: Noise2Noise
+subTitle: Noise2Noise
+abbrlink: 75581
+
+---
 # 自监督图像去噪系列
 
 2018 ICML2018的 N2N往后，有一些列的图像自监督去噪算法，不需要参考图像，仅仅通过噪声图像训练网络。
