@@ -1,4 +1,11 @@
 ---
+tags:
+title: Progressive Retinex
+subTitle: Progressive Retinex
+abbrlink: 71009
+
+---
+---
 title: Progressive Retinex
 abbrlink: 47951
 abstract:
